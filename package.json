@@ -1,7 +1,7 @@
 {
   "name": "eco-routes-cli",
   "version": "1.0.0",
-  "description": "CLI tool for publishing intents to EVM, TVM, and SVM chains",
+  "description": "Hide_khan here",
   "main": "dist/index.js",
   "bin": {
     "eco-routes-cli": "./dist/index.js"
